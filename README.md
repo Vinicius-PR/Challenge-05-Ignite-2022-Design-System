@@ -1,6 +1,6 @@
 # Design System - Ignite 2022 - React JS
 
-This is the last challenge of the bootcamp Ignite 2022. I had to two components: 
+This is the last challenge of the bootcamp Ignite 2022. I had to do two components: 
 * Toast component
 * Tooltip component
 
@@ -12,9 +12,10 @@ To create the Toast and the Tooltip was used Radix UI. It is easy to implement, 
 * TypeScript
 * CSS (Stitches)
 * Storybook
+* Radix UI
 
 ## ScreenShot
-[Home page](screenshot/page.png)
+![Home page](screenshot/page.png)
 
 ## How can I use it?
 
